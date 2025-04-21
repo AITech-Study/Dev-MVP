@@ -9,12 +9,14 @@
 - 프로젝트 디렉토리 구성
   - {자신의 이니셜} > {프로젝트 이름}
   - 예시) keh > claude-rag-project
+    
+![image](https://github.com/user-attachments/assets/fd47b864-d1a3-433a-9bde-1d6c310de5e2)
 
 ## 진행 방법
-
+- [프로젝트 진행방법](https://github.com/AITech-Study/Dev-MVP/blob/main/project-workflow.md)
 
 ## 파이썬 명명 규칙
-
+- [파이썬 명명 규칙](https://github.com/AITech-Study/Dev-MVP/blob/main/python-naming-rule.md)
 
 ## 커밋 컨벤션
 ### 커밋 구조

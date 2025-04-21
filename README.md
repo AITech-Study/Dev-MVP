@@ -15,6 +15,10 @@
 ## 진행 방법
 - [프로젝트 진행방법](https://github.com/AITech-Study/Dev-MVP/blob/main/project-workflow.md)
 
+## 코드 리뷰 일정
+- 04-24.(목), 04-26.(토) 진행 예정
+  - 코드 리뷰 일정은 참여자들의 일정에 따라 유동적으로 변할 수 있습니다. 
+
 ## 파이썬 명명 규칙
 - [파이썬 명명 규칙](https://github.com/AITech-Study/Dev-MVP/blob/main/python-naming-rule.md)
 

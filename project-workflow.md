@@ -54,5 +54,5 @@
      
    <img src="https://github.com/user-attachments/assets/170ff57e-ee02-454d-9be7-f39ba1f33b62" width="70%" height="300"/>
    
-   - pull request의 **구현 내용, 프로젝트 아키텍처, 기술, 기술 사용 이유** 내용 구성은 **고도화에 활용하면 좋은 것들**로 요약해 정리합니다.
+   - pull request의 **구현 내용, 프로젝트 아키텍처, 기술, 기술 사용 이유**는 **고도화에 활용하면 좋은 것들**로 요약해 정리합니다.
    - pull reqeust는 **반드시 main이 아닌 자신의 원격 브랜치에 입력**하셔야 합니다.
